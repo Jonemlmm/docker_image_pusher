@@ -3,3 +3,4 @@ mysql
 vllm/vllm-openai
 lmsysorg/sglang
 minio
+registry
