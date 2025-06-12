@@ -1,3 +1,4 @@
 # minio/minio:RELEASE.2024-01-05T22-17-24Z
 # tdengine/tdengine:latest
-lmsysorg/sglang
+# lmsysorg/sglang
+xuxueli/xxl-job-admin:2.3.1
