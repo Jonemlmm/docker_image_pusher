@@ -3,4 +3,5 @@
 # lmsysorg/sglang
 # xuxueli/xxl-job-admin:2.3.1
 # cloudflare/cloudflared:latest
-openjdk:8-jre
+# openjdk:8-jre
+openjdk:8-jre-slim
