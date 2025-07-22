@@ -9,4 +9,5 @@
 # portainer/portainer:latest
 # rabbitmq:management-alpine
 # 6053537/portainer-ce:latest
-nginx
+# nginx
+redis
