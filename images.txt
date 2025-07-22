@@ -8,4 +8,5 @@
 # n8nio/n8n:1.101.0
 # portainer/portainer:latest
 # rabbitmq:management-alpine
-6053537/portainer-ce:latest
+# 6053537/portainer-ce:latest
+nginx
