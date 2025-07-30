@@ -11,4 +11,5 @@
 # 6053537/portainer-ce:latest
 # nginx
 # redis
-mongo:latest
+# mongo:latest
+emqx/emqx-enterprise
