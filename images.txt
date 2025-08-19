@@ -13,4 +13,4 @@
 # redis
 # mongo:latest
 # emqx/emqx-enterprise
-grafana/grafana-enterprise
+grafana/grafana-enterprise:12.1.1-ubuntu
