@@ -13,4 +13,4 @@
 # redis
 # mongo:latest
 # emqx/emqx-enterprise
-grafana
+grafana/grafana-enterprise
