@@ -13,4 +13,5 @@
 # redis
 # mongo:latest
 # emqx/emqx-enterprise
-grafana/grafana-enterprise:12.1.1-ubuntu
+# grafana/grafana-enterprise:12.1.1-ubuntu
+pnoker/dc3-jdk:2025.9
