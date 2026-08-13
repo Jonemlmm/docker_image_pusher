@@ -15,4 +15,5 @@
 # emqx/emqx-enterprise
 # grafana/grafana-enterprise:12.1.1-ubuntu
 # pnoker/dc3-jdk:2025.9
-pnoker/dc3-jre:2025.9
+# pnoker/dc3-jre:2025.9
+ghcr.io/senshinya/moontv:latest
